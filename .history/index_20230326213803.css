@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.gridContainer{
+    display: grid;
+    grid-template-columns: 20px 1fr 1fr 1fr;
+    grid-template-rows: 0.2fr 1fr;
+    grid-template-areas:
+    "side header header header"
+}

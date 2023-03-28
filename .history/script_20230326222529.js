@@ -1,0 +1,2 @@
+var sideBarOpen = false;
+var
